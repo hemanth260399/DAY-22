@@ -1,0 +1,44 @@
+[
+    {
+        "No": 1,
+        "image": "https://cdn-icons-png.flaticon.com/512/2777/2777142.png",
+        "title": "Fully Responsive",
+        "content": "This theme will look great on any device, no matter the size!",
+        "position": "top"
+    },
+    {
+        "No": 2,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkt5wzZ1LZXdBJSY1lele-BsBxzSxDph8TQA&s",
+        "title": "Bootstrap 5 Ready",
+        "content": "Featuring the latest build of the new Bootstrap 5 framework!",
+        "position": "top"
+    },
+    {
+        "No": 3,
+        "image": "https://img.freepik.com/premium-vector/easy-icon-vector-with-snap-finger-gesture-sign-outline-symbol-illustration_692379-106.jpg",
+        "title": "Easy to Use",
+        "content": "Ready to use with your own content, or customize the source files!",
+        "position": "top"
+    },
+    {
+        "No": 4,
+        "image": "https://img.freepik.com/premium-photo/closeup-apple-iphone-x-smartphone-table-iphone-10-was-created-developed-by-apple_890746-3320.jpg",
+        "title": "Fully Responsive Design",
+        "content": "When you use a theme created by Start Bootstrap, you know that the theme will look great on any device, whether it's a phone, tablet, or desktop the page will behave responsively!",
+        "position": "right"
+    },
+    {
+        "No": 5,
+        "image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg",
+        "title": "Updated For Bootstrap 5",
+        "content": "Newly improved, and full of great utility classes, Bootstrap 5 is leading the way in mobile responsive web development! All of the themes on Start Bootstrap are now using Bootstrap 5!",
+        "position": "left"
+    },
+    {
+        "No": 6,
+        "image": "https://img.freepik.com/premium-photo/people-hand-using-computer-laptop_9563-1182.jpg",
+        "title": "Easy to Use & Customize",
+        "content": "Landing Page is just HTML and CSS with a splash of SCSS for users who demand some deeper customization options. Out of the box, just add your content and images, and your new landing page will be ready to go!",
+        "position": "right"
+    }
+]

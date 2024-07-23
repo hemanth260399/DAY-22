@@ -1,0 +1,20 @@
+[
+    {
+        "no": 1,
+        "name": "Margaret E.",
+        "image": "https://th.bing.com/th/id/OIP.1e3oeE_Uo2gXHr26tlMU1QHaHa?w=190&h=191&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "content": "This is fantastic! Thanks so much guys!"
+    },
+    {
+        "no": 2,
+        "name": "Fred S.",
+        "image": "https://th.bing.com/th/id/OIP.PTCXw4gsGUA2iz_XQGyevAHaE8?w=269&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "content": "Bootstrap is amazing. I've been using it to create lots of super nice landing pages."
+    },
+    {
+        "no": 3,
+        "name": "Sarah W.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw24d162QOssdhazu_G_gUs6-fudlIcPGSFA&s",
+        "content": "Thanks so much for making these free resources available to us!"
+    }
+]
